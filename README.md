@@ -76,9 +76,6 @@ sudo docker compose up -d --build
 | Zookeeper    | Kafka 메타데이터 및 브로커 상태 관리 |
 | Kafka Broker | 메시지 송수신 및 토픽 관리         |
 
-- Zookeeper는 Kafka 클러스터 상태를 관리합니다.
-- kafka Broker는 실제 메시지를 저장하고 전달합니다.
-
 ---
 
 ## 운영 참고 사항
